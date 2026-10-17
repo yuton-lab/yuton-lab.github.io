@@ -1,0 +1,7 @@
+body{margin:0;background:#F7F5F0;color:#2B2B2B;font-family:"Noto Sans JP","Hiragino Sans",sans-serif;line-height:1.8}
+main{max-width:720px;margin:0 auto;padding:40px 16px}
+h1{font-size:1.6rem;border-bottom:3px solid #3E7C6B;padding-bottom:.3em}
+h2{font-size:1.15rem;margin-top:2em;color:#3E7C6B}
+a{color:#3E7C6B}
+small,.en{color:#77736C}
+nav a{margin-right:1em}
